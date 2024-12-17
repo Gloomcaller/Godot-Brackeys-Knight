@@ -24,5 +24,5 @@ This project was created to:
 
 ## Credits
 
-- Huge thank you to Brackeys for assets and excelent guidance from a YouTube tutorial: https://youtu.be/LOhfqjmasi0?si=YYwkaFrrgXZApdG2.
+- Huge thank you to Brackeys for assets and excelent guidance from a [YouTube tutorial](https://youtu.be/LOhfqjmasi0?si=YYwkaFrrgXZApdG2).
 - Powered by Godot Engine.
